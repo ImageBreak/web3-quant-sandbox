@@ -30,6 +30,7 @@ __pycache__/
 *.drawio.bkp
 *.inspect.ndjson
 *.log
+.DS_Store
 playbook/my-playbook.md
 labs/00-assistant-brief/my-brief.md
 labs/03-entry-workspace/my-entry-decision.md
